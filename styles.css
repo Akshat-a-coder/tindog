@@ -1,0 +1,172 @@
+#title{
+    background-color:#ff4c68;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+    
+}
+.container-fluid{
+ padding: 2% ;
+
+}
+.content{
+    padding-left: 100px;
+}
+.brand{
+    padding: 1%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    color: white;
+    padding-left: 20%;
+}
+.link{
+    padding: 1%;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+
+}
+.link:hover{
+    font-weight: bold;
+    color: black;
+}
+.brand:hover{
+    color:black;
+}
+ul{
+    position: absolute;
+    right:150px;
+}
+.iphone{
+    transform: rotate(25deg);
+    width: 35%;
+}
+.nav-link{
+    color: white;
+    font-size: larger;
+}
+.col-lg-4{
+    text-align: center;
+    padding: 5% 3%;
+    width: 20%;
+}
+.a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    
+}
+#features{
+    margin-top: -8%;
+    padding: 3% 0;
+    background-color: white;
+    position: relative;
+    z-index: 2;
+}
+.t{
+    color: #8f8f8f;
+}
+.icon{
+    color: #ef8172; 
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    padding: 3% 0 ;
+    background-color: #ff4c68;
+    text-align: center;
+    color: white;
+    line-height: 1.5rem;
+}
+.dog{
+    padding: 3% 5%;
+    border-radius: 100%;
+}
+
+#press{
+    margin-top: -2%;
+    padding: 1% 0;
+    background-color: #ff4c68;
+    text-align: center;
+}
+.logo{
+    padding: 0 1%;
+}
+#pricing{
+    margin-top: 3%;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.col-lg-4 {
+ padding: 0 0 0 0;
+    
+}
+#dis{
+    padding: 2% 0 0 0;
+    font-size: 50px;
+    font-weight: bold;
+}
+.para{
+    font-size: large;
+    color: #8f8f8f;
+}
+.A{
+    margin-left: 60px;
+}
+.B{
+    margin: 0 30px;
+}
+.C{
+    margin-right: 60px;
+}
+.E{
+    padding: 3% 0;
+}
+@media (max-width:991px) {
+    .iphone{
+        width:25%;
+        position: relative;
+        top: 2rem;
+        transform: rotate(0deg);
+    }
+    .container-fluid{
+        text-align: center;
+    }
+}
+#cta{
+    background-color: #ff4c68;
+    color: white;
+   text-align: center;
+   padding: 2%;
+}
+.lob{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.5;
+    font-size: 255%;
+    padding: 2% 25%;
+}
+.apple{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    margin-right: 2%;
+}
+.google{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+}
+#footer{
+    text-align: center;
+    color: #8f8f8f;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding: 5% 0%;
+}
+.end{
+    color: black;
+    margin:20px 10px;
+}
